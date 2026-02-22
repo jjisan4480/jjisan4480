@@ -53,4 +53,4 @@ My journey in computer science has led me to develop a passion for cybersecurity
 - Active Directory & Domain Control
 - SIEM & SOAR
 
-### 'Note' :  I'm actively expanding my skillset through continuous learning, certifications, and hands-on practice in my homelab environment.
+### Note :  I'm actively expanding my skillset through continuous learning, certifications, and hands-on practice in my homelab environment.
