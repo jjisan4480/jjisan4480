@@ -14,7 +14,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 |-----------------------------------------------|----------------------------|
 | SOC Home Lab (Virtualized Network Infrastructure)| <a href="">Infrastructure</a>|
 | Secure Hybrid Cloud Infrastructure               |                                                |
-| Enterprise Active Directory & Infrastructure Lab | <a href="">Active directory</a>|
+| Enterprise Active Directory & Infrastructure Lab | <a href="">https://github.com/jjisan4480/Active-Directory-DC-Client-Setup</a>|
 
 
 <!--
