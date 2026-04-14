@@ -13,9 +13,9 @@ My journey in computer science has led me to develop a passion for cybersecurity
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | SOC Home Lab (Virtualized Network Infrastructure)| <a href="https://github.com/jjisan4480/Cybersecurity_Homelab_Infrastructure">Infrastructure</a>|
-| Secure Hybrid Cloud Infrastructure               | <a href ="https://github.com/jjisan4480/Secure-Homelab-Access">Secure LAB Access</a>|                                         |
-| Enterprise Active Directory & Infrastructure Lab | <a href="https://github.com/jjisan4480/Active-Directory-DC-Client-Setup">Active Directory DC & Client Setup
-</a>|
+| Secure Hybrid Cloud Infrastructure               | <a href ="https://github.com/jjisan4480/Secure-Homelab-Access">Secure LAB Access</a>|
+| Enterprise Active Directory & Infrastructure Lab | <a href="https://github.com/jjisan4480/Active-Directory-DC-Client-Setup">Active Directory DC & Client Setup</a>|
+| Automated Splunk SIEM detection and SOAR response. | <a href="https://github.com/jjisan4480/Splunk_and_SOAR_Integration">Splunk_and_SOAR_Integration</a>|
 
 
 <!--
